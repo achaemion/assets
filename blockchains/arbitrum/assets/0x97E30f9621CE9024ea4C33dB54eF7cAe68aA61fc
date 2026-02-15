@@ -1,0 +1,17 @@
+{
+  "name": "Achaemion",
+  "symbol": "ACH",
+  "type": "ERC20",
+  "decimals": 18,
+  "website": "https://achaemion.com",
+  "Token Website": https://ach.achaemion.com",
+  "description": "Achaemion (ACH) is a decentralized token deployed on Arbitrum One.",
+  "explorer": "https://arbiscan.io/token/0x97e30f9621ce9024ea4c33db54ef7cae68aa61fc",
+  "status": "active",
+  "id": "0x97E30f9621CE9024ea4C33dB54eF7cAe68aA61fc",
+  "links": {
+    "twitter": "https://x.com/achaemion",
+    "telegram": "https://t.me/achaemion",
+    "github": "https://github.com/achaemion"
+  }
+}
